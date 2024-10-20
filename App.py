@@ -209,7 +209,7 @@ def get_current_location() -> list:
 def get_weather(city:str) -> str:
 
     """This function gives the current weather of a place in India"""
-    api_key = "2a7f14d5bc3df4ecf7e22f21f151344c"
+    api_key = "provide your key here"
 
     country_code = "IN"
 

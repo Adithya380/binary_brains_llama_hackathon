@@ -21,7 +21,7 @@ def predict_crop_disease(image_path):
     #   "To upload larger images, use the assets API (see docs)"
 
     headers = {
-        "Authorization": "Bearer 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",
+        "Authorization": "Bearer nvapi-'provide your key here'",
         "Accept": "text/event-stream" if stream else "application/json"
     }
 
